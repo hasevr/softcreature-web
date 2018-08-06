@@ -4,4 +4,4 @@
  * [Soft Creature](about.md)
  - - - -
  * # Let's Try !
- * [MDWiki‚Åo—ˆ‚é‚±‚Æ](About/MDWiki‚Åo—ˆ‚é‚±‚Æ.md)
+ * [MDWikiã§å‡ºæ¥ã‚‹ã“ã¨](About/MDWikiã§å‡ºæ¥ã‚‹ã“ã¨.md)
