@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "(C) 2018 Softcreature LLC",
+    "additionalFooterText": "(C) 2018 Softcreature LLC. ",
     "title": "Softcreature",
     "anchorCharacter": "#"
 }
