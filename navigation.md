@@ -1,4 +1,4 @@
-# ソフトクリーチャ
+#ソフトクリーチャ
 
 [gimmick:theme](cerulean)
 
