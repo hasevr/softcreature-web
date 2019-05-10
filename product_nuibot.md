@@ -20,6 +20,8 @@
 * [ESP-WROOM-32](https://www.espressif.com/zh-hans/products/hardware/esp-wroom-32/overview)にモータドライバを載せた小型ボードと、小型金属ギアモータ(10mm x 12mm x 32mm 程度のもの)に磁気式角度センサを取り付けたサーボモータを作りました。
 * UARTを使って小ボードと通信することで、最大4x8x2=64個のモータを制御できるはずのソフトウェアと小ボードを作りました。
 * UDP通信で制御できるようにソフトを作りました。
+* こんな作品を簡単に作ることができます。
+<iframe src="https://drive.google.com/file/d/1mKSLaL7cmQXKF6gdcWZrPzJ1_zkRQhAg/preview" width="640" height="480"></iframe>
 
 ## 手法(いまやっていること)
 * Microsoft Makecodeでプログラムし、ボードに書き込めるようにします。
