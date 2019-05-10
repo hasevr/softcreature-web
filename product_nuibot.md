@@ -25,5 +25,5 @@
 * Microsoft Makecodeでプログラムし、ボードに書き込めるようにします。
 * Web用のAPIを作ると思います。
 
-##予定
-10月には販売開始できるよう、鋭意開発を進めています。
+## 詳細情報
+Nuibotの詳細については、https://scrapbox.io/Nuibot/ を御覧ください。
