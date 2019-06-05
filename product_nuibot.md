@@ -1,5 +1,9 @@
 #縫い物で作るロボット製作キット NUIBOT
 
+
+## 最新情報／詳細情報
+Nuibotの最新情報、詳細については、[NuibotのScrapbox](https://scrapbox.io/Nuibot/) を御覧ください。
+
 ## 製品
 糸を巻き取るモータとモータを3個まで制御できるマイコン(ESP WROOM 32)のセットです。
 
@@ -26,6 +30,3 @@
 ## 手法(いまやっていること)
 * Microsoft Makecodeでプログラムし、ボードに書き込めるようにします。
 * Web用のAPIを作ると思います。
-
-## 詳細情報
-Nuibotの詳細については、https://scrapbox.io/Nuibot/ を御覧ください。
